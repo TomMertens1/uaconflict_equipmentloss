@@ -116,6 +116,6 @@ impression.
 
 ![](img/artillery_losses_time.png)
 
-### Overall tank losses over time
+## Overall tank losses over time
 
 ![](img/tank_losses_time.png)
